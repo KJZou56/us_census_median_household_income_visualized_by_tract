@@ -10,3 +10,4 @@ A US census tract is a small, relatively permanent geographic subdivision within
 
 Think of it like zooming in on a map. Counties and states are like whole continents, while census tracts are like city districts. By zooming in, you can see the finer details and patterns that might be hidden at a larger scale.
 ![newplot_county](https://github.com/KJZou56/us_census_median_household_income_visualized_by_tract/assets/150881506/f77257ab-0f26-442e-b881-c3c07a49a91f)
+![newplot_state](https://github.com/KJZou56/us_census_median_household_income_visualized_by_tract/assets/150881506/24393914-bc0d-49e8-a8f3-f1ebac0e23b6)
